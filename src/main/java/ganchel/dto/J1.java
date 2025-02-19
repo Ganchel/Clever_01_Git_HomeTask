@@ -9,4 +9,5 @@ public class J1 {
     private String j15;
     private String j16;
     private String j19;
+    private String j21;
 }
