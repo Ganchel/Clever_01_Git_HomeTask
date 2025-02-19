@@ -5,4 +5,5 @@ import lombok.*;
 @AllArgsConstructor
 public class J1 {
     private String j1;
+    private String j8;
 }
