@@ -7,4 +7,5 @@ import lombok.*;
 public class J2 {
     private String j2;
     private String j3;
+    private String j4;
 }
