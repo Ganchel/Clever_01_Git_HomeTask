@@ -12,4 +12,6 @@ public class J1 {
     private String j19;
     private String j21;
     private String j25;
+    private String j28;
+    private String j30;
 }
