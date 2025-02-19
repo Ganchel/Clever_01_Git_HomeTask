@@ -13,4 +13,5 @@ public class J2 {
     private String j14;
     private String j17;
     private String j23;
+    private String j27;
 }
